@@ -16,9 +16,9 @@ https://data.wa.gov/dataset/HOFIDAR-Yearly-Balance-Sheet-and-Income-Statement/g3
 
 ## Financial Ratios
 These ratios were used to evaluate the financial health of the hospitals:
-* Current Ratio
-* Net Profit Margin
-* Debt Service Coverage Ratio
+* Current Ratio (liquidity)
+* Net Profit Margin (profitability)
+* Debt Service Coverage Ratio (solvency)
 
 ## Cluster Interpretation
 Hospitals were assigned to the following financial health categories:
